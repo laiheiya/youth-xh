@@ -1,4 +1,4 @@
-name: 中青阅读s
+name: 中青阅读-py
 
 on:
   workflow_dispatch:
